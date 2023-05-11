@@ -1,0 +1,1 @@
+https://kb.objectrocket.com/postgresql/create-a-postgresql-database-using-the-psycopg2-python-library-755
